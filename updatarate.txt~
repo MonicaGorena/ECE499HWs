@@ -1,3 +1,0 @@
-The udate rate in bluetrack is 0.04 seconds. 
-This was chosen because it was the fastest the robot could go while allowing hte program to run normally (without having the screen freak out). 
-The fastest update rate was prefered because fast calculation of the error and response are desired. 
